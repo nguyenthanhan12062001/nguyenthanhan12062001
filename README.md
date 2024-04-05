@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nguyenthanhan12062001
 - 👀 I’m newbie
-- 🌱 I’m currently learning C# and Php
+- 🌱 I’m currently learning C# and Dart
 
 
 <!---
